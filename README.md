@@ -1,10 +1,14 @@
 # Chaîne de production de détections RF maritimes : démonstrateur
 
+**Tableau de bord en ligne : https://jauresmas.github.io/surveillance-maritime-rf/**
+
+Atlas des demandes (PDF) : [sorties/atlas_demandes.pdf](sorties/atlas_demandes.pdf) · Rapports de contrôle qualité : [sorties/rapports_qc/index.html](https://jauresmas.github.io/surveillance-maritime-rf/sorties/rapports_qc/index.html)
+
 > Démonstrateur de compétences, non officiel. La constellation (« SIM-01 » à « SIM-12 »), les clients et leurs demandes sont fictifs. Les détections radiofréquence sont **simulées** à partir de données AIS réelles.
 
 Ce projet reproduit le travail d'un technicien géomatique en production de données satellitaires de surveillance maritime : déposer et suivre les demandes de programmation, mettre en forme les données collectées, les contrôler, les croiser avec d'autres sources géographiques, les livrer aux clients et assurer le support et l'astreinte.
 
-![Tableau de bord de supervision](sorties/captures/tableau_de_bord.png)
+[![Tableau de bord de supervision](sorties/captures/tableau_de_bord.png)](https://jauresmas.github.io/surveillance-maritime-rf/)
 
 ## Ce que fait la chaîne
 

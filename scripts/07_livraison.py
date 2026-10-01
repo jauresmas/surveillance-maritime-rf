@@ -95,19 +95,10 @@ for d in demandes:
     n_haute = int((det.interet == "haute").sum())
     acq_ok = int(lots.verdict_qc.isin(["qc_ok", "qc_reserve"]).sum())
     if "PDF" in formats:
-        synthese = (f"Période : {d['date_debut'][:10]} au {d['date_fin'][:10]}\n"
-                    f"Acquisitions exploitées : {acq_ok} (échecs : {len(echecs)})\n"
-                    f"Détections livrées : {len(det)}\n"
-                    f"   corrélées à l'AIS : {len(det) - n_s}\n"
-                    f"   sans AIS (navires sombres potentiels) : {n_s}\n"
-                    f"   dont en zone d'interdiction de pêche : {n_haute}\n"
-                    f"Cibles : {d['cibles']}\n\n"
-                    "Positions issues de la géolocalisation RF : chaque point est le centre "
-                    "d'une ellipse d'incertitude à 95 %.")
-        sources = (f"{config.MENTION}.\nAIS : {config.SOURCE_AIS}.\nCôte et limites : AEE ; ports : Région Bretagne "
-                   "(Licence ouverte). Limites 12/24 M calculées depuis le trait de côte, sans lignes de base droites.")
+        debut, fin = (datetime.fromisoformat(d[k][:10]).strftime("%d/%m/%Y") for k in ("date_debut", "date_fin"))
         carte(gpkg, ref, dossier / f"{d['id']}_carte_synthese.pdf", f"{d['id']} · {d['intitule']}",
-              f"{d['client']} · livraison du {date_liv:%d/%m/%Y}", synthese, sources,
+              f"{d['client']}  ·  du {debut} au {fin}  ·  cibles : {d['cibles']}  ·  livré le {date_liv:%d/%m/%Y}",
+              [(acq_ok, "acquisitions"), (len(det), "détections"), (n_s, "sans AIS")],
               sortie_png=CAPTURES / f"carte_{d['id']}.png")
 
     # bordereau
