@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>D001_detections_rf</name>
+  <Placemark>
+	<name>F/V ANTAEUS</name>
+	<description>corrélée AIS | 2015-11-02T08:23:41Z | intérêt faible</description>
+      <Point><coordinates>-4.507809,48.127094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-02T08:23:41Z | intérêt moyenne</description>
+      <Point><coordinates>-4.513243,48.325696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LES CALANQUES</name>
+	<description>corrélée AIS | 2015-11-02T08:17:11Z | intérêt faible</description>
+      <Point><coordinates>-4.852145,48.19</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-02T08:19:35Z | intérêt à vérifier</description>
+      <Point><coordinates>-4.540238,48.307395</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CHRISTELLE MICKAEL</name>
+	<description>corrélée AIS | 2015-11-02T08:20:21Z | intérêt faible</description>
+      <Point><coordinates>-4.438491,48.365944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ENEZ HIR</name>
+	<description>corrélée AIS | 2015-11-02T08:17:55Z | intérêt faible</description>
+      <Point><coordinates>-4.430433,48.364799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-02T08:20:23Z | intérêt à vérifier</description>
+      <Point><coordinates>-5.19075,48.243271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-02T08:16:45Z | intérêt à vérifier</description>
+      <Point><coordinates>-4.492852,48.299585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARCHANGE</name>
+	<description>corrélée AIS | 2015-11-02T08:19:58Z | intérêt faible</description>
+      <Point><coordinates>-4.401225,48.320762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-02T13:12:28Z | intérêt à vérifier</description>
+      <Point><coordinates>-4.441903,48.32386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STELLACH</name>
+	<description>corrélée AIS | 2015-11-02T13:09:45Z | intérêt faible</description>
+      <Point><coordinates>-4.538091,48.3038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EMERAUDE</name>
+	<description>corrélée AIS | 2015-11-02T13:14:21Z | intérêt faible</description>
+      <Point><coordinates>-4.426726,48.38552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-02T13:14:02Z | intérêt moyenne</description>
+      <Point><coordinates>-5.025968,48.130251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STELLA</name>
+	<description>corrélée AIS | 2015-11-02T13:07:15Z | intérêt faible</description>
+      <Point><coordinates>-4.422102,48.322175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V RIEN D IMPOSSIBL</name>
+	<description>corrélée AIS | 2015-11-02T13:09:51Z | intérêt faible</description>
+      <Point><coordinates>-4.817562,48.388821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-02T13:13:03Z | intérêt moyenne</description>
+      <Point><coordinates>-5.065564,48.135496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAPHIR</name>
+	<description>corrélée AIS | 2015-11-02T13:13:22Z | intérêt faible</description>
+      <Point><coordinates>-4.474355,48.369435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MAB BIEL</name>
+	<description>corrélée AIS | 2015-11-02T13:14:38Z | intérêt faible</description>
+      <Point><coordinates>-4.46818,48.323344</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KAN AN AEL</name>
+	<description>corrélée AIS | 2015-11-02T13:07:35Z | intérêt faible</description>
+      <Point><coordinates>-5.009927,48.164696</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THALIA</name>
+	<description>corrélée AIS | 2015-11-03T11:50:28Z | intérêt faible</description>
+      <Point><coordinates>-4.937937,48.267193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-03T11:50:39Z | intérêt moyenne</description>
+      <Point><coordinates>-4.777021,48.167357</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-03T12:12:57Z | intérêt moyenne</description>
+      <Point><coordinates>-4.770895,48.125081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>THALIA</name>
+	<description>corrélée AIS | 2015-11-03T12:16:57Z | intérêt faible</description>
+      <Point><coordinates>-4.867417,48.273018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-04T10:48:34Z | intérêt moyenne</description>
+      <Point><coordinates>-4.43462,48.169396</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STELLA</name>
+	<description>corrélée AIS | 2015-11-04T10:49:31Z | intérêt faible</description>
+      <Point><coordinates>-4.399362,48.321301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STRINKEREZ DOUR</name>
+	<description>corrélée AIS | 2015-11-04T10:48:48Z | intérêt faible</description>
+      <Point><coordinates>-4.497779,48.289682</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KREIZ AR MOR</name>
+	<description>corrélée AIS | 2015-11-04T10:53:17Z | intérêt faible</description>
+      <Point><coordinates>-5.145074,48.081646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MESCALEROS</name>
+	<description>corrélée AIS | 2015-11-05T15:42:40Z | intérêt faible</description>
+      <Point><coordinates>-4.804981,48.362477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V RIEN D IMPOSSIBL</name>
+	<description>corrélée AIS | 2015-11-05T15:43:54Z | intérêt faible</description>
+      <Point><coordinates>-4.838829,48.421457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>GESOCRIBATE</name>
+	<description>corrélée AIS | 2015-11-05T15:45:42Z | intérêt faible</description>
+      <Point><coordinates>-4.914173,48.439819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-05T15:41:48Z | intérêt moyenne</description>
+      <Point><coordinates>-4.800925,48.053536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CONNEMARA</name>
+	<description>corrélée AIS | 2015-11-05T15:42:18Z | intérêt faible</description>
+      <Point><coordinates>-4.881449,48.115276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CONNEMARA</name>
+	<description>corrélée AIS | 2015-11-05T16:10:04Z | intérêt faible</description>
+      <Point><coordinates>-4.94751,48.168126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V RIEN D IMPOSSIBL</name>
+	<description>corrélée AIS | 2015-11-05T16:10:51Z | intérêt faible</description>
+      <Point><coordinates>-4.788177,48.3562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L AR VOALEDEN</name>
+	<description>corrélée AIS | 2015-11-06T09:13:48Z | intérêt faible</description>
+      <Point><coordinates>-4.430797,48.124793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-06T12:31:33Z | intérêt à vérifier</description>
+      <Point><coordinates>-5.231337,48.047868</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-06T12:34:35Z | intérêt moyenne</description>
+      <Point><coordinates>-4.999867,48.045074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V LE LAGON</name>
+	<description>corrélée AIS | 2015-11-07T12:36:56Z | intérêt faible</description>
+      <Point><coordinates>-5.101957,48.217388</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-07T12:37:32Z | intérêt moyenne</description>
+      <Point><coordinates>-5.117469,48.37883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-08T06:54:02Z | intérêt moyenne</description>
+      <Point><coordinates>-4.9366,48.102186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-08T06:55:40Z | intérêt moyenne</description>
+      <Point><coordinates>-5.288141,48.3071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-08T06:54:02Z | intérêt moyenne</description>
+      <Point><coordinates>-4.744953,48.19496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V GWEL A VO</name>
+	<description>corrélée AIS | 2015-11-08T06:53:16Z | intérêt faible</description>
+      <Point><coordinates>-5.127546,48.371709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V MARIE-LOU III</name>
+	<description>corrélée AIS | 2015-11-08T06:53:18Z | intérêt faible</description>
+      <Point><coordinates>-5.226361,48.384402</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V RIEN D IMPOSSIBL</name>
+	<description>corrélée AIS | 2015-11-08T12:56:57Z | intérêt faible</description>
+      <Point><coordinates>-4.830949,48.409821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STELLA</name>
+	<description>corrélée AIS | 2015-11-09T07:22:19Z | intérêt faible</description>
+      <Point><coordinates>-4.461305,48.335907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAPHIR</name>
+	<description>corrélée AIS | 2015-11-09T07:21:54Z | intérêt faible</description>
+      <Point><coordinates>-4.466865,48.334526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STELLACH</name>
+	<description>corrélée AIS | 2015-11-09T07:20:40Z | intérêt faible</description>
+      <Point><coordinates>-4.499044,48.344459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-09T07:20:09Z | intérêt moyenne</description>
+      <Point><coordinates>-5.112907,48.09922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ST BERNARD</name>
+	<description>corrélée AIS | 2015-11-09T07:15:23Z | intérêt faible</description>
+      <Point><coordinates>-4.465863,48.338266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ROCH AVEL</name>
+	<description>corrélée AIS | 2015-11-09T07:15:05Z | intérêt faible</description>
+      <Point><coordinates>-4.466631,48.352328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V ANTAEUS</name>
+	<description>corrélée AIS | 2015-11-09T07:16:35Z | intérêt faible</description>
+      <Point><coordinates>-5.042992,48.250818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V JUDINE</name>
+	<description>corrélée AIS | 2015-11-09T07:17:47Z | intérêt faible</description>
+      <Point><coordinates>-4.489594,48.390244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EMERAUDE</name>
+	<description>corrélée AIS | 2015-11-09T07:17:00Z | intérêt faible</description>
+      <Point><coordinates>-4.454039,48.342033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARCHANGE</name>
+	<description>corrélée AIS | 2015-11-09T07:22:06Z | intérêt faible</description>
+      <Point><coordinates>-4.475784,48.323383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MAM GOZ</name>
+	<description>corrélée AIS | 2015-11-09T07:15:36Z | intérêt faible</description>
+      <Point><coordinates>-4.425949,48.336685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AR BLEIZ</name>
+	<description>corrélée AIS | 2015-11-09T07:19:41Z | intérêt faible</description>
+      <Point><coordinates>-4.463755,48.33232</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-10T13:02:47Z | intérêt moyenne</description>
+      <Point><coordinates>-5.001245,48.284262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KEROULAN</name>
+	<description>corrélée AIS | 2015-11-10T12:58:08Z | intérêt faible</description>
+      <Point><coordinates>-4.839078,48.126739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V.OCEANE</name>
+	<description>corrélée AIS | 2015-11-10T12:56:43Z | intérêt faible</description>
+      <Point><coordinates>-4.913242,48.271723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FV HENT AR MOR</name>
+	<description>corrélée AIS | 2015-11-10T13:01:27Z | intérêt faible</description>
+      <Point><coordinates>-5.267051,48.408837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KAN AN AEL</name>
+	<description>corrélée AIS | 2015-11-10T13:00:16Z | intérêt faible</description>
+      <Point><coordinates>-4.975612,48.215386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KEROULAN</name>
+	<description>corrélée AIS | 2015-11-10T18:37:15Z | intérêt faible</description>
+      <Point><coordinates>-4.995284,48.125995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KAN AN AEL</name>
+	<description>corrélée AIS | 2015-11-10T18:35:28Z | intérêt faible</description>
+      <Point><coordinates>-4.922931,48.209745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-10T18:31:28Z | intérêt à vérifier</description>
+      <Point><coordinates>-5.294172,48.044419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V MIREN</name>
+	<description>corrélée AIS | 2015-11-11T13:03:02Z | intérêt faible</description>
+      <Point><coordinates>-4.896745,48.138099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-11T15:27:25Z | intérêt à vérifier</description>
+      <Point><coordinates>-5.196598,48.222076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-11T15:24:14Z | intérêt moyenne</description>
+      <Point><coordinates>-4.97773,48.136287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-11T15:27:01Z | intérêt moyenne</description>
+      <Point><coordinates>-4.749163,48.123601</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-11T15:29:19Z | intérêt à vérifier</description>
+      <Point><coordinates>-4.51294,48.369035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KEROULAN</name>
+	<description>corrélée AIS | 2015-11-11T15:28:34Z | intérêt faible</description>
+      <Point><coordinates>-4.953618,48.131584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MAB BIEL</name>
+	<description>corrélée AIS | 2015-11-12T06:32:03Z | intérêt faible</description>
+      <Point><coordinates>-4.4774,48.390385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V HORIZON</name>
+	<description>corrélée AIS | 2015-11-12T06:35:49Z | intérêt faible</description>
+      <Point><coordinates>-4.406344,48.12718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KEROULAN</name>
+	<description>corrélée AIS | 2015-11-12T06:30:12Z | intérêt faible</description>
+      <Point><coordinates>-4.73629,48.137884</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-12T06:31:02Z | intérêt moyenne</description>
+      <Point><coordinates>-5.08308,48.121032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ROCH AVEL</name>
+	<description>corrélée AIS | 2015-11-12T06:36:01Z | intérêt faible</description>
+      <Point><coordinates>-4.482197,48.379582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L AR VOALEDEN</name>
+	<description>corrélée AIS | 2015-11-12T06:34:05Z | intérêt faible</description>
+      <Point><coordinates>-5.292444,48.230308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-12T06:35:28Z | intérêt moyenne</description>
+      <Point><coordinates>-4.68523,48.225821</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CHRISTELLE MICKAEL</name>
+	<description>corrélée AIS | 2015-11-12T08:32:29Z | intérêt faible</description>
+      <Point><coordinates>-4.431813,48.368951</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KEROULAN</name>
+	<description>corrélée AIS | 2015-11-12T08:31:24Z | intérêt faible</description>
+      <Point><coordinates>-4.703883,48.162362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SAPHIR</name>
+	<description>corrélée AIS | 2015-11-12T08:25:11Z | intérêt faible</description>
+      <Point><coordinates>-4.408407,48.390667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-12T08:31:40Z | intérêt moyenne</description>
+      <Point><coordinates>-4.635306,48.211579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-12T08:27:54Z | intérêt à vérifier</description>
+      <Point><coordinates>-4.553644,48.00844</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-12T08:31:47Z | intérêt moyenne</description>
+      <Point><coordinates>-4.800837,48.36416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AR LAERES</name>
+	<description>corrélée AIS | 2015-11-12T08:28:30Z | intérêt faible</description>
+      <Point><coordinates>-4.93047,48.133791</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-12T08:32:22Z | intérêt moyenne</description>
+      <Point><coordinates>-4.620576,48.196033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-12T08:30:25Z | intérêt à vérifier</description>
+      <Point><coordinates>-4.491053,48.303669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-13T18:44:37Z | intérêt moyenne</description>
+      <Point><coordinates>-4.489041,48.117381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-13T18:37:44Z | intérêt moyenne</description>
+      <Point><coordinates>-4.98598,48.252511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V MIREN</name>
+	<description>corrélée AIS | 2015-11-13T18:40:35Z | intérêt faible</description>
+      <Point><coordinates>-4.508819,48.10971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FV DAMIEN FLORENT</name>
+	<description>corrélée AIS | 2015-11-14T14:49:02Z | intérêt faible</description>
+      <Point><coordinates>-4.698874,48.132312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KEROULAN</name>
+	<description>corrélée AIS | 2015-11-14T14:44:15Z | intérêt faible</description>
+      <Point><coordinates>-4.457331,48.122707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2015-11-14T14:49:51Z | intérêt moyenne</description>
+      <Point><coordinates>-4.46879,48.119334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RV ANTEA</name>
+	<description>corrélée AIS | 2015-11-14T18:57:51Z | intérêt faible</description>
+      <Point><coordinates>-4.478012,48.384967</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V.OCEANE</name>
+	<description>corrélée AIS | 2015-11-14T18:57:42Z | intérêt faible</description>
+      <Point><coordinates>-4.972256,48.250408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V JUDINE</name>
+	<description>corrélée AIS | 2015-11-14T18:55:56Z | intérêt faible</description>
+      <Point><coordinates>-4.872292,48.259757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L AR VOALEDEN</name>
+	<description>corrélée AIS | 2015-11-14T18:58:57Z | intérêt faible</description>
+      <Point><coordinates>-5.282927,48.184983</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V ZUBERNOA</name>
+	<description>corrélée AIS | 2015-11-14T18:59:55Z | intérêt faible</description>
+      <Point><coordinates>-4.589165,48.121858</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

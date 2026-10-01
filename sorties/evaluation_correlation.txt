@@ -1,0 +1,12 @@
+Évaluation interne de la corrélation (vérité de simulation)
+
+predit     corrélée  non corrélée
+categorie                        
+ais_actif       879            21
+sans_ais          3            79
+sombre           48            50
+
+Bonne identification du navire (MMSI exact) parmi les corrélées : 61.3%
+  - à moins de 2 km de la côte : 51.2% sur 683 détections
+  - au large (plus de 2 km) : 96.4% sur 196 détections
+Navires sans AIS (sombres + sans AIS) retrouvés en non corrélé : rappel 71.7%, précision 86.0%

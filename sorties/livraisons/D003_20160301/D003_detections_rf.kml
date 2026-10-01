@@ -1,0 +1,906 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>D003_detections_rf</name>
+  <Placemark>
+	<name>BAIE DE SEINE</name>
+	<description>corrélée AIS | 2016-02-01T08:59:05Z | intérêt faible</description>
+      <Point><coordinates>-4.762388,48.277894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AEROUANT BREIZH</name>
+	<description>corrélée AIS | 2016-02-01T15:31:04Z | intérêt faible</description>
+      <Point><coordinates>-4.327144,48.099707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V FACE A LA MER</name>
+	<description>corrélée AIS | 2016-02-01T15:31:55Z | intérêt faible</description>
+      <Point><coordinates>-4.338016,48.096765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KAN AN AEL</name>
+	<description>corrélée AIS | 2016-02-01T15:37:46Z | intérêt faible</description>
+      <Point><coordinates>-4.685672,48.131021</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TIBIDY</name>
+	<description>corrélée AIS | 2016-02-01T15:36:48Z | intérêt faible</description>
+      <Point><coordinates>-4.480813,48.284103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V MIRENTXU 1</name>
+	<description>corrélée AIS | 2016-02-01T15:37:07Z | intérêt faible</description>
+      <Point><coordinates>-4.32383,48.102126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BOUGAINVILLE</name>
+	<description>corrélée AIS | 2016-02-01T15:36:59Z | intérêt faible</description>
+      <Point><coordinates>-4.804824,48.27125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-01T15:32:47Z | intérêt moyenne</description>
+      <Point><coordinates>-4.330327,48.117019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ENEZ SUN 3</name>
+	<description>corrélée AIS | 2016-02-01T15:30:11Z | intérêt faible</description>
+      <Point><coordinates>-4.702615,48.015795</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V LYCIA</name>
+	<description>corrélée AIS | 2016-02-01T15:30:53Z | intérêt faible</description>
+      <Point><coordinates>-4.312954,48.138167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RESOLUTION</name>
+	<description>corrélée AIS | 2016-02-01T15:34:03Z | intérêt faible</description>
+      <Point><coordinates>-4.333687,48.099028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V SPERED BREIZH</name>
+	<description>corrélée AIS | 2016-02-01T15:37:17Z | intérêt faible</description>
+      <Point><coordinates>-4.330967,48.125328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>corrélée AIS | 2016-02-01T15:30:33Z | intérêt faible</description>
+      <Point><coordinates>-4.435872,48.310904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KAN AN AEL</name>
+	<description>corrélée AIS | 2016-02-02T11:04:20Z | intérêt faible</description>
+      <Point><coordinates>-4.739394,48.118979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VN PARTISAN</name>
+	<description>corrélée AIS | 2016-02-02T11:02:36Z | intérêt faible</description>
+      <Point><coordinates>-4.448123,48.177666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VN PARTISAN</name>
+	<description>corrélée AIS | 2016-02-03T11:57:00Z | intérêt faible</description>
+      <Point><coordinates>-4.360828,48.128273</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FS ETOILE</name>
+	<description>corrélée AIS | 2016-02-03T12:02:09Z | intérêt faible</description>
+      <Point><coordinates>-4.605922,48.283244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FRENCH WARSHIP</name>
+	<description>corrélée AIS | 2016-02-03T12:01:10Z | intérêt faible</description>
+      <Point><coordinates>-4.756207,48.205607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-03T11:57:04Z | intérêt moyenne</description>
+      <Point><coordinates>-4.657455,48.279735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TIBIDY</name>
+	<description>corrélée AIS | 2016-02-03T12:03:28Z | intérêt faible</description>
+      <Point><coordinates>-4.456371,48.311852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-03T12:02:27Z | intérêt moyenne</description>
+      <Point><coordinates>-4.714973,48.283416</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARMORIQUE</name>
+	<description>corrélée AIS | 2016-02-03T11:57:34Z | intérêt faible</description>
+      <Point><coordinates>-4.841488,48.066978</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LANGE WAPPER</name>
+	<description>corrélée AIS | 2016-02-03T13:21:47Z | intérêt faible</description>
+      <Point><coordinates>-4.723405,48.301542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARMORIQUE</name>
+	<description>corrélée AIS | 2016-02-03T13:25:44Z | intérêt faible</description>
+      <Point><coordinates>-4.638543,48.289297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CABLE BAY</name>
+	<description>corrélée AIS | 2016-02-03T13:20:29Z | intérêt faible</description>
+      <Point><coordinates>-4.838,48.096883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VN PARTISAN</name>
+	<description>corrélée AIS | 2016-02-03T13:25:09Z | intérêt faible</description>
+      <Point><coordinates>-4.402006,48.173157</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STENBERG</name>
+	<description>corrélée AIS | 2016-02-04T07:49:35Z | intérêt faible</description>
+      <Point><coordinates>-4.665562,48.288389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CABLE BAY</name>
+	<description>corrélée AIS | 2016-02-04T07:50:29Z | intérêt faible</description>
+      <Point><coordinates>-4.483663,48.133555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SPONTUS</name>
+	<description>corrélée AIS | 2016-02-04T07:52:50Z | intérêt faible</description>
+      <Point><coordinates>-4.355689,48.2971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V LISANAIS</name>
+	<description>corrélée AIS | 2016-02-04T07:53:52Z | intérêt faible</description>
+      <Point><coordinates>-4.325034,48.094146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TREBERON</name>
+	<description>corrélée AIS | 2016-02-04T07:48:02Z | intérêt faible</description>
+      <Point><coordinates>-4.489697,48.310882</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L ODYSSEE</name>
+	<description>corrélée AIS | 2016-02-04T08:53:26Z | intérêt faible</description>
+      <Point><coordinates>-4.498737,48.283233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-04T08:50:26Z | intérêt moyenne</description>
+      <Point><coordinates>-4.357346,48.16693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CABLE BAY</name>
+	<description>corrélée AIS | 2016-02-04T08:57:59Z | intérêt faible</description>
+      <Point><coordinates>-4.797168,48.187406</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-05T13:47:44Z | intérêt moyenne</description>
+      <Point><coordinates>-4.866678,48.288405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-05T13:53:08Z | intérêt à vérifier</description>
+      <Point><coordinates>-4.325562,48.095585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-05T13:50:55Z | intérêt à vérifier</description>
+      <Point><coordinates>-4.564602,48.171469</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VN PARTISAN</name>
+	<description>corrélée AIS | 2016-02-05T13:53:20Z | intérêt faible</description>
+      <Point><coordinates>-4.444833,48.169419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ABEILLE BOURBON</name>
+	<description>corrélée AIS | 2016-02-05T13:49:59Z | intérêt faible</description>
+      <Point><coordinates>-4.581935,48.284306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>VN PARTISAN</name>
+	<description>corrélée AIS | 2016-02-05T14:22:29Z | intérêt faible</description>
+      <Point><coordinates>-4.477853,48.177991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MARCEL</name>
+	<description>corrélée AIS | 2016-02-06T09:23:21Z | intérêt faible</description>
+      <Point><coordinates>-4.331332,48.118124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-06T09:22:26Z | intérêt moyenne</description>
+      <Point><coordinates>-4.885013,48.117297</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FV DAMIEN FLORENT</name>
+	<description>corrélée AIS | 2016-02-06T12:58:48Z | intérêt faible</description>
+      <Point><coordinates>-4.794452,48.034474</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MARCEL</name>
+	<description>corrélée AIS | 2016-02-06T12:57:23Z | intérêt faible</description>
+      <Point><coordinates>-4.330243,48.119529</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L AR VOALEDEN</name>
+	<description>corrélée AIS | 2016-02-06T13:01:49Z | intérêt faible</description>
+      <Point><coordinates>-4.322064,48.095792</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-06T13:01:14Z | intérêt moyenne</description>
+      <Point><coordinates>-4.468143,48.110567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ENEZ SUN 3</name>
+	<description>corrélée AIS | 2016-02-07T12:17:01Z | intérêt faible</description>
+      <Point><coordinates>-4.829542,48.025998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V FARPESCA</name>
+	<description>corrélée AIS | 2016-02-07T12:15:11Z | intérêt faible</description>
+      <Point><coordinates>-4.318032,48.126141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RESOLUTION</name>
+	<description>corrélée AIS | 2016-02-07T12:42:20Z | intérêt faible</description>
+      <Point><coordinates>-4.336367,48.108459</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V FARPESCA</name>
+	<description>corrélée AIS | 2016-02-07T12:43:00Z | intérêt faible</description>
+      <Point><coordinates>-4.299607,48.119718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L AR VOALEDEN</name>
+	<description>corrélée AIS | 2016-02-07T12:44:23Z | intérêt faible</description>
+      <Point><coordinates>-4.325707,48.095517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V L ESTRAN</name>
+	<description>corrélée AIS | 2016-02-08T08:03:38Z | intérêt faible</description>
+      <Point><coordinates>-4.327882,48.092047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-08T08:01:58Z | intérêt à vérifier</description>
+      <Point><coordinates>-4.559997,48.220521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-08T08:07:49Z | intérêt à vérifier</description>
+      <Point><coordinates>-4.50261,48.208092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BARA PEMDEZ II</name>
+	<description>corrélée AIS | 2016-02-08T17:07:06Z | intérêt faible</description>
+      <Point><coordinates>-4.317225,48.106061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V L ESTRAN</name>
+	<description>corrélée AIS | 2016-02-08T17:08:59Z | intérêt faible</description>
+      <Point><coordinates>-4.335596,48.096179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TIBIDY</name>
+	<description>corrélée AIS | 2016-02-08T17:12:01Z | intérêt faible</description>
+      <Point><coordinates>-4.414025,48.282985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V FARPESCA</name>
+	<description>corrélée AIS | 2016-02-08T17:11:10Z | intérêt faible</description>
+      <Point><coordinates>-4.314044,48.104608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V L ESTRAN</name>
+	<description>corrélée AIS | 2016-02-09T15:19:56Z | intérêt faible</description>
+      <Point><coordinates>-4.328521,48.100996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TREBERON</name>
+	<description>corrélée AIS | 2016-02-09T15:19:25Z | intérêt faible</description>
+      <Point><coordinates>-4.508791,48.295391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-09T15:22:33Z | intérêt moyenne</description>
+      <Point><coordinates>-4.897504,48.184947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ABEILLE BOURBON</name>
+	<description>corrélée AIS | 2016-02-10T10:12:06Z | intérêt faible</description>
+      <Point><coordinates>-4.730957,48.261804</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-10T10:17:29Z | intérêt moyenne</description>
+      <Point><coordinates>-4.784313,48.078851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Y &amp; F OLIVAUX SNS001</name>
+	<description>corrélée AIS | 2016-02-10T10:11:04Z | intérêt faible</description>
+      <Point><coordinates>-4.84319,48.043888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-10T10:11:05Z | intérêt à vérifier</description>
+      <Point><coordinates>-4.584286,48.081943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V BUCCIN</name>
+	<description>corrélée AIS | 2016-02-10T10:10:10Z | intérêt faible</description>
+      <Point><coordinates>-4.346373,48.103818</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-10T10:12:23Z | intérêt moyenne</description>
+      <Point><coordinates>-4.431123,48.119457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V L ESTRAN</name>
+	<description>corrélée AIS | 2016-02-10T13:59:37Z | intérêt faible</description>
+      <Point><coordinates>-4.333205,48.097991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KSORA</name>
+	<description>corrélée AIS | 2016-02-10T13:59:30Z | intérêt faible</description>
+      <Point><coordinates>-4.768515,48.127501</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RESOLUTION</name>
+	<description>corrélée AIS | 2016-02-10T14:02:43Z | intérêt faible</description>
+      <Point><coordinates>-4.342152,48.089594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-10T13:58:52Z | intérêt moyenne</description>
+      <Point><coordinates>-4.447041,48.146433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARUN</name>
+	<description>corrélée AIS | 2016-02-11T08:10:49Z | intérêt faible</description>
+      <Point><coordinates>-4.511406,48.295427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FRENCH WARSHIP</name>
+	<description>corrélée AIS | 2016-02-11T08:10:48Z | intérêt faible</description>
+      <Point><coordinates>-4.473381,48.165339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-11T11:13:24Z | intérêt moyenne</description>
+      <Point><coordinates>-4.701095,48.240981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LES CALANQUES</name>
+	<description>corrélée AIS | 2016-02-11T11:12:43Z | intérêt faible</description>
+      <Point><coordinates>-4.324606,48.096363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FRENCH WARSHIP</name>
+	<description>corrélée AIS | 2016-02-11T11:18:27Z | intérêt faible</description>
+      <Point><coordinates>-4.763051,48.291098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-12T13:23:54Z | intérêt moyenne</description>
+      <Point><coordinates>-4.841751,48.174543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TERENEZ</name>
+	<description>corrélée AIS | 2016-02-12T15:18:47Z | intérêt faible</description>
+      <Point><coordinates>-4.507185,48.297739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-12T15:22:33Z | intérêt moyenne</description>
+      <Point><coordinates>-4.563028,48.09301</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V MISS JACQUELINE2</name>
+	<description>corrélée AIS | 2016-02-13T15:24:30Z | intérêt faible</description>
+      <Point><coordinates>-4.325795,48.099057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-14T08:20:18Z | intérêt moyenne</description>
+      <Point><coordinates>-4.562917,48.133728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-14T08:24:07Z | intérêt moyenne</description>
+      <Point><coordinates>-4.639753,48.288398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-14T17:36:10Z | intérêt moyenne</description>
+      <Point><coordinates>-4.484174,48.12311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-14T17:42:19Z | intérêt moyenne</description>
+      <Point><coordinates>-4.714434,48.112988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V FACE A LA MER</name>
+	<description>corrélée AIS | 2016-02-14T17:38:58Z | intérêt faible</description>
+      <Point><coordinates>-4.452835,48.107587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RESOLUTION</name>
+	<description>corrélée AIS | 2016-02-14T17:39:01Z | intérêt faible</description>
+      <Point><coordinates>-4.330434,48.094463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AEROUANT BREIZH</name>
+	<description>corrélée AIS | 2016-02-14T17:37:57Z | intérêt faible</description>
+      <Point><coordinates>-4.503885,48.105403</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MARGRITIC</name>
+	<description>corrélée AIS | 2016-02-14T17:37:05Z | intérêt faible</description>
+      <Point><coordinates>-4.409848,48.119494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V TXIMISTARRI 2</name>
+	<description>corrélée AIS | 2016-02-14T17:39:47Z | intérêt faible</description>
+      <Point><coordinates>-4.442442,48.117296</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARUN</name>
+	<description>corrélée AIS | 2016-02-15T15:36:03Z | intérêt faible</description>
+      <Point><coordinates>-4.473858,48.305107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TREBERON</name>
+	<description>corrélée AIS | 2016-02-15T15:35:20Z | intérêt faible</description>
+      <Point><coordinates>-4.495464,48.299438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CAP FINISTERE</name>
+	<description>corrélée AIS | 2016-02-15T15:37:25Z | intérêt faible</description>
+      <Point><coordinates>-4.733433,48.030723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ENEZ SUN 3</name>
+	<description>corrélée AIS | 2016-02-15T15:33:05Z | intérêt faible</description>
+      <Point><coordinates>-4.692851,48.0109</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-15T15:35:22Z | intérêt moyenne</description>
+      <Point><coordinates>-4.581243,48.118088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KAN AN AEL</name>
+	<description>corrélée AIS | 2016-02-15T15:33:56Z | intérêt faible</description>
+      <Point><coordinates>-4.680445,48.121794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LOUARN</name>
+	<description>corrélée AIS | 2016-02-15T15:35:31Z | intérêt faible</description>
+      <Point><coordinates>-4.420913,48.292091</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V MEN_GWEN</name>
+	<description>corrélée AIS | 2016-02-16T08:14:36Z | intérêt faible</description>
+      <Point><coordinates>-4.872634,48.285164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DORA</name>
+	<description>corrélée AIS | 2016-02-16T08:11:28Z | intérêt faible</description>
+      <Point><coordinates>-4.50903,48.291684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-16T08:08:35Z | intérêt moyenne</description>
+      <Point><coordinates>-4.715655,48.260695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-17T09:20:52Z | intérêt moyenne</description>
+      <Point><coordinates>-4.716166,48.118598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-17T09:22:47Z | intérêt moyenne</description>
+      <Point><coordinates>-4.849693,48.107549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FV\MEN BRIAL</name>
+	<description>corrélée AIS | 2016-02-17T09:25:55Z | intérêt faible</description>
+      <Point><coordinates>-4.330204,48.09702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ABEILLE BOURBON</name>
+	<description>corrélée AIS | 2016-02-17T09:23:22Z | intérêt faible</description>
+      <Point><coordinates>-4.607201,48.291235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KAN AN AEL</name>
+	<description>corrélée AIS | 2016-02-17T09:23:00Z | intérêt faible</description>
+      <Point><coordinates>-4.731541,48.124131</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BOUGAINVILLE</name>
+	<description>corrélée AIS | 2016-02-17T16:15:11Z | intérêt faible</description>
+      <Point><coordinates>-4.805265,48.261053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V TXIMISTARRI 2</name>
+	<description>corrélée AIS | 2016-02-17T16:13:04Z | intérêt faible</description>
+      <Point><coordinates>-4.370186,48.116138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KAN AN AEL</name>
+	<description>corrélée AIS | 2016-02-17T16:10:21Z | intérêt faible</description>
+      <Point><coordinates>-4.711096,48.13069</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V ANTAEUS</name>
+	<description>corrélée AIS | 2016-02-18T11:05:14Z | intérêt faible</description>
+      <Point><coordinates>-4.327139,48.099233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>LE JUSANT</name>
+	<description>corrélée AIS | 2016-02-18T11:09:40Z | intérêt faible</description>
+      <Point><coordinates>-4.34061,48.116663</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-18T11:10:02Z | intérêt à vérifier</description>
+      <Point><coordinates>-4.459617,48.106014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>AUGUSTINE</name>
+	<description>corrélée AIS | 2016-02-18T14:39:47Z | intérêt faible</description>
+      <Point><coordinates>-4.419259,48.164356</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BRETAGNE</name>
+	<description>corrélée AIS | 2016-02-18T14:36:28Z | intérêt faible</description>
+      <Point><coordinates>-4.767866,48.108001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V BUCCIN</name>
+	<description>corrélée AIS | 2016-02-18T14:37:48Z | intérêt faible</description>
+      <Point><coordinates>-4.319906,48.096621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ENEZ SUN 3</name>
+	<description>corrélée AIS | 2016-02-18T14:39:06Z | intérêt faible</description>
+      <Point><coordinates>-4.839936,48.036867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-18T14:37:19Z | intérêt à vérifier</description>
+      <Point><coordinates>-4.658433,48.027441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ARUN</name>
+	<description>corrélée AIS | 2016-02-19T15:32:28Z | intérêt faible</description>
+      <Point><coordinates>-4.507529,48.29366</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-19T15:32:26Z | intérêt moyenne</description>
+      <Point><coordinates>-4.42452,48.184368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V BUCCIN</name>
+	<description>corrélée AIS | 2016-02-19T15:28:17Z | intérêt faible</description>
+      <Point><coordinates>-4.516737,48.12095</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-19T15:34:09Z | intérêt moyenne</description>
+      <Point><coordinates>-4.82465,48.166726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-19T15:32:07Z | intérêt moyenne</description>
+      <Point><coordinates>-4.821594,48.067477</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V ANTAEUS</name>
+	<description>corrélée AIS | 2016-02-20T10:08:17Z | intérêt faible</description>
+      <Point><coordinates>-4.292039,48.105671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-20T10:07:13Z | intérêt moyenne</description>
+      <Point><coordinates>-4.458191,48.129745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RINDI</name>
+	<description>corrélée AIS | 2016-02-20T10:08:06Z | intérêt faible</description>
+      <Point><coordinates>-4.730447,48.266914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-20T10:11:30Z | intérêt moyenne</description>
+      <Point><coordinates>-4.348464,48.15348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-20T10:17:48Z | intérêt moyenne</description>
+      <Point><coordinates>-4.428949,48.123958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KAN AN AEL</name>
+	<description>corrélée AIS | 2016-02-20T10:19:45Z | intérêt faible</description>
+      <Point><coordinates>-4.696045,48.133567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RINDI</name>
+	<description>corrélée AIS | 2016-02-20T10:17:44Z | intérêt faible</description>
+      <Point><coordinates>-4.746229,48.276742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STRAITVIEW</name>
+	<description>corrélée AIS | 2016-02-21T09:17:29Z | intérêt faible</description>
+      <Point><coordinates>-4.725302,48.281747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANTARCTIC</name>
+	<description>corrélée AIS | 2016-02-21T09:15:31Z | intérêt faible</description>
+      <Point><coordinates>-4.7119,48.155705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ENEZ SUN 3</name>
+	<description>corrélée AIS | 2016-02-21T09:13:27Z | intérêt faible</description>
+      <Point><coordinates>-4.725938,48.016148</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANTARCTIC</name>
+	<description>corrélée AIS | 2016-02-21T10:21:14Z | intérêt faible</description>
+      <Point><coordinates>-4.555103,48.129383</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V LE BARON</name>
+	<description>corrélée AIS | 2016-02-21T10:24:02Z | intérêt faible</description>
+      <Point><coordinates>-4.318204,48.104046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-22T12:35:41Z | intérêt à vérifier</description>
+      <Point><coordinates>-4.441749,48.296783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V ANTAEUS</name>
+	<description>corrélée AIS | 2016-02-23T12:16:14Z | intérêt faible</description>
+      <Point><coordinates>-4.324042,48.101976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BINDY</name>
+	<description>corrélée AIS | 2016-02-23T12:14:32Z | intérêt faible</description>
+      <Point><coordinates>-4.508925,48.29787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-23T12:18:34Z | intérêt moyenne</description>
+      <Point><coordinates>-4.52054,48.128987</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-23T12:19:04Z | intérêt moyenne</description>
+      <Point><coordinates>-4.661268,48.083251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ANTARCTIC</name>
+	<description>corrélée AIS | 2016-02-23T13:05:16Z | intérêt faible</description>
+      <Point><coordinates>-4.324058,48.091841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-23T13:01:19Z | intérêt moyenne</description>
+      <Point><coordinates>-4.679314,48.103312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>BLUE BENDA</name>
+	<description>corrélée AIS | 2016-02-23T13:04:01Z | intérêt faible</description>
+      <Point><coordinates>-4.791198,48.063893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-23T13:02:22Z | intérêt moyenne</description>
+      <Point><coordinates>-4.514778,48.09995</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V EFFERA</name>
+	<description>corrélée AIS | 2016-02-24T07:40:22Z | intérêt faible</description>
+      <Point><coordinates>-4.456178,48.128533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-24T07:42:54Z | intérêt moyenne</description>
+      <Point><coordinates>-4.718398,47.986961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MESCALEROS</name>
+	<description>corrélée AIS | 2016-02-24T07:41:05Z | intérêt faible</description>
+      <Point><coordinates>-4.819872,48.170309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V FACE A LA MER</name>
+	<description>corrélée AIS | 2016-02-24T07:44:35Z | intérêt faible</description>
+      <Point><coordinates>-4.339335,48.090461</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>DE XIN HAI</name>
+	<description>corrélée AIS | 2016-02-24T07:38:10Z | intérêt faible</description>
+      <Point><coordinates>-4.697258,48.294478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-24T07:37:50Z | intérêt moyenne</description>
+      <Point><coordinates>-4.827822,48.217996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>ENEZ SUN 3</name>
+	<description>corrélée AIS | 2016-02-24T10:36:17Z | intérêt faible</description>
+      <Point><coordinates>-4.763713,48.025725</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TIBIDY</name>
+	<description>corrélée AIS | 2016-02-24T10:41:58Z | intérêt faible</description>
+      <Point><coordinates>-4.421913,48.296638</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V FACE A LA MER</name>
+	<description>corrélée AIS | 2016-02-24T10:34:45Z | intérêt faible</description>
+      <Point><coordinates>-4.327364,48.105766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V RIEN D IMPOSSIBL</name>
+	<description>corrélée AIS | 2016-02-24T10:38:30Z | intérêt faible</description>
+      <Point><coordinates>-4.815049,48.246339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>FRENCH WARSHIP</name>
+	<description>corrélée AIS | 2016-02-24T10:37:44Z | intérêt faible</description>
+      <Point><coordinates>-4.4093,48.299327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KALICOBA</name>
+	<description>corrélée AIS | 2016-02-25T10:47:36Z | intérêt faible</description>
+      <Point><coordinates>-4.780719,48.274518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-25T10:48:22Z | intérêt moyenne</description>
+      <Point><coordinates>-4.772488,48.213571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-25T10:47:03Z | intérêt moyenne</description>
+      <Point><coordinates>-4.75292,48.145252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-25T10:47:00Z | intérêt moyenne</description>
+      <Point><coordinates>-4.717854,48.016409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V ANTAEUS</name>
+	<description>corrélée AIS | 2016-02-25T10:50:53Z | intérêt faible</description>
+      <Point><coordinates>-4.328827,48.10387</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V KAN AN AEL</name>
+	<description>corrélée AIS | 2016-02-26T13:44:11Z | intérêt faible</description>
+      <Point><coordinates>-4.728736,48.12665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>TREBERON</name>
+	<description>corrélée AIS | 2016-02-27T07:45:27Z | intérêt faible</description>
+      <Point><coordinates>-4.415255,48.286657</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MESCALEROS</name>
+	<description>corrélée AIS | 2016-02-27T07:48:59Z | intérêt faible</description>
+      <Point><coordinates>-4.835078,48.16259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RESOLUTION</name>
+	<description>corrélée AIS | 2016-02-27T07:46:12Z | intérêt faible</description>
+      <Point><coordinates>-4.332898,48.089901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SEATURBOT</name>
+	<description>corrélée AIS | 2016-02-28T07:07:03Z | intérêt faible</description>
+      <Point><coordinates>-4.831091,48.261037</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>MESCALEROS</name>
+	<description>corrélée AIS | 2016-02-28T07:07:32Z | intérêt faible</description>
+      <Point><coordinates>-4.792177,48.257464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V LE BARON</name>
+	<description>corrélée AIS | 2016-02-28T07:07:56Z | intérêt faible</description>
+      <Point><coordinates>-4.349603,48.097904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SEA-EYE</name>
+	<description>corrélée AIS | 2016-02-28T07:01:40Z | intérêt faible</description>
+      <Point><coordinates>-4.829876,48.285526</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RESOLUTION</name>
+	<description>corrélée AIS | 2016-02-28T15:44:54Z | intérêt faible</description>
+      <Point><coordinates>-4.308888,48.096853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-28T15:43:46Z | intérêt moyenne</description>
+      <Point><coordinates>-4.805817,48.201302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V MIREN</name>
+	<description>corrélée AIS | 2016-02-28T15:46:58Z | intérêt faible</description>
+      <Point><coordinates>-4.799705,48.284231</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V ANTAEUS</name>
+	<description>corrélée AIS | 2016-02-28T15:46:56Z | intérêt faible</description>
+      <Point><coordinates>-4.326779,48.103912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-28T15:42:41Z | intérêt moyenne</description>
+      <Point><coordinates>-4.81345,48.191291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V ANTAEUS</name>
+	<description>corrélée AIS | 2016-02-29T09:54:54Z | intérêt faible</description>
+      <Point><coordinates>-4.321681,48.10431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-29T09:53:51Z | intérêt moyenne</description>
+      <Point><coordinates>-4.476233,48.107358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-29T09:51:28Z | intérêt moyenne</description>
+      <Point><coordinates>-4.842442,48.254914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>STELLAMARIS</name>
+	<description>corrélée AIS | 2016-02-29T09:55:06Z | intérêt faible</description>
+      <Point><coordinates>-4.699189,47.963271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>EKI HAIZEA</name>
+	<description>corrélée AIS | 2016-02-29T09:52:14Z | intérêt faible</description>
+      <Point><coordinates>-4.34593,48.097058</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>RESOLUTION</name>
+	<description>corrélée AIS | 2016-02-29T09:55:58Z | intérêt faible</description>
+      <Point><coordinates>-4.346449,48.091029</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>F/V FARPESCA</name>
+	<description>corrélée AIS | 2016-02-29T09:52:07Z | intérêt faible</description>
+      <Point><coordinates>-4.327422,48.097233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-29T11:24:52Z | intérêt à vérifier</description>
+      <Point><coordinates>-4.588624,48.001337</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sans AIS</name>
+	<description>non corrélée : navire sombre potentiel | 2016-02-29T11:24:05Z | intérêt moyenne</description>
+      <Point><coordinates>-4.897186,48.255451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>CERCLE VERT</name>
+	<description>corrélée AIS | 2016-02-29T11:29:30Z | intérêt faible</description>
+      <Point><coordinates>-4.751466,48.022238</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

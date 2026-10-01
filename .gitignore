@@ -1,0 +1,8 @@
+# Données sources (à retélécharger depuis Zenodo, voir README)
+donnees/brutes/
+# AIS nettoyé, régénéré par 01_preparation.py (335 Mo)
+donnees/produites/ais.sqlite
+# Lots intermédiaires régénérés par 04 et 05
+donnees/produites/lots_formes/
+__pycache__/
+*.pyc
